@@ -1,5 +1,5 @@
 {
-	"name": "shopnow",
+	"name": "booksy",
 	"version": "1.0.0",
 	"description": "Mern Ecommerce app",
 	"main": "server.js",
@@ -13,7 +13,7 @@
 		"data:destroy": "node backend/seeder -d",
 		"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
 	},
-	"author": "Ayush",
+	"author": "Aman",
 	"license": "ISC",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
