@@ -1,10 +1,10 @@
 const products = [
 	{
-		name: "Harry Potter and the Philosophers Stone",
+		name: "Ghosts of The Silent Hills",
 		image: "/images/airpods.jpg",
 		description:
-			"A glorious silver anniversary edition of J.K. Rowlings classic first story, featuring the original 1997 cover illustration by Thomas Taylor and exciting bonus material to celebrate 25 years of Harry Potter magic --This text refers to the hardcover edition.",
-		brand: "J.K. Rowling",
+			"Ghosts of The Silent Hills by Anita Krishan is a collection of short stories that grip you, shake you, and fill you with those cold spooky vibes. Each and every story revolves around a peculiar story of the ghost, a soul that dies dissatisfied, and reflects the flaws in our society and humanity",
+		brand: "Anita Krishan",
 		category: "Books & Magazines",
 		price: 3.85,
 		countInStock: 10,
@@ -12,11 +12,11 @@ const products = [
 		numReviews: 12,
 	},
 	{
-		name: "Fifty Shades of Grey",
+		name: "YOU CAN",
 		image: "/images/phone.jpg",
 		description:
-			"Fifty Shades of Grey of by E.L. James is a romantic thriller that comes with a supernatural twist. An erotic romantic novel, it is the first part in the Fifty Shades Trilogy that tracks the relationship between a college girl and a young successful business person.",
-		brand: "E. L. James",
+			"One of the best empowering self-help manual ever written! A powerful guide filled with quotes imparting wisdom of a man whose teachings have inspired millions — Napoleon Hill & penned by bestselling author George Matthew Adams to promote personal growth and well-being.",
+		brand: "Caroline Kepnes",
 		category: "Books & Magazines",
 		price: 5.35,
 		countInStock: 7,
@@ -24,11 +24,11 @@ const products = [
 		numReviews: 8,
 	},
 	{
-		name: "Maa (माँ)",
+		name: "No Matter What",
 		image: "/images/camera.jpg",
 		description:
-			"मुंशी प्रेमचन्द ने अपने उपन्यासों में गरीबों, मजदूरों के शोषण की दास्तान उभारी है तथा अत्याचार, अनाचार के विरुद्ध गरीबों को लामबंद करने का कार्य किया तो मैंक्सिम गोर्की ने माँ के चरित्र और व्यक्तित्व द्वारा मिल मजदूरों में क्रांति चेतना जगाने का काम किया है।",
-		brand: "Maxim Gorki",
+			"An ordinary-turned-extraordinary tale about the magic of love",
+		brand: "Hans Wilhelm",
 		category: "Books & Magazines",
 		price: 3.54,
 		countInStock: 5,
@@ -48,11 +48,11 @@ const products = [
 		numReviews: 12,
 	},
 	{
-		name: "The Girl in Room 105",
+		name: "The Secret Garden",
 		image: "/images/mouse.jpg",
 		description:
-			"It tells about a IIT coaching class tutor who goes to wish his ex-girlfriend on her birthday and finds her murdered. The rest of the story is his journey where he stands by his ex-girlfriend after her death to find justice. The book also addresses the stereotypes and political issues in India.",
-		brand: "Chetan bhagat",
+			"The novel centres on Mary Lennox, who is living in India with her wealthy British family. She is a selfish and disagreeable 10-year-old girl who has been spoiled by her servants and neglected by her unloving parents. When a cholera epidemic kills her parents and the servants, Mary is orphaned.",
+		brand: "Robert Ingpen and Frances Hodgson Burnett",
 		category: "Books & Magazines",
 		price: 1.76,
 		countInStock: 7,
